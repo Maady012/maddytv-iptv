@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://avkb.short.gy/epg.xml" x-tvg-url="https://avkb.short.gy/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Maady012/maddytv-iptv/main/epg.xml.gz" x-tvg-url="https://raw.githubusercontent.com/Maady012/maddytv-iptv/main/epg.xml.gz"
 # MADDY TV - VERIFIED ACTIVE 24/7 CHANNELS (0 DEAD LINKS)
 
 #EXTINF:-1 tvg-id="sun194403" tvg-name="Sun TV HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Sun_TV_HD.png" group-title="Tamil Entertainment",Sun TV HD
