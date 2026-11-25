@@ -1,55 +1,131 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="star.vijay.hd" tvg-name="Star Vijay HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Star_Vijay_HD.png" group-title="Tamil Entertainment",Star Vijay HD
-https://cdn.tamilultra.nl/STAR_VIJAY/index.m3u8?token=1f076085ff343a8067f67cf702eaf26a4c6a3c09-e18a7b2e383c1f941979655740bd85fc-1795599819-1795578219
-#EXTINF:-1 tvg-id="zee.tamil.hd" tvg-name="Zee Tamil HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Zee_Tamil_HD.png" group-title="Tamil Entertainment",Zee Tamil HD
-https://cdn.tamilultra.nl/ZEE_TAMIL_HD/index.m3u8?token=71984524913926ec3af0bb6f29d5266b8c9bab9e-3a660cdc80043b2519d147e7d8a37765-1795599820-1795578220
-#EXTINF:-1 tvg-id="colors.tamil.hd" tvg-name="Colors Tamil HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Colors_Tamil_HD.png" group-title="Tamil Entertainment",Colors Tamil HD
-https://cdn.tamilultra.nl/COLORS_TAMIL_HD/index.m3u8?token=44f3667e8f1b024e87cc77b2bd6f8b89826ed816-b8bfd5732f0528857ce3fc9f519b52b5-1795599821-1795578221
-#EXTINF:-1 tvg-id="vijay.takkar" tvg-name="Vijay Takkar" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Vijay_Takkar.png" group-title="Tamil Entertainment",Vijay Takkar
-https://cdn.tamilultra.nl/VIJAY_TAKKAR/index.m3u8?token=e4f427ad2b2f2768d269b5edee3a8f359ef63314-3c629b40ef10e1b87376f57db545eb92-1795599824-1795578224
-#EXTINF:-1 tvg-id="shakthi.tv" tvg-name="Shakthi TV" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2024/05/Sakthi_TV.png" group-title="Tamil Entertainment",Shakthi TV
-https://cdn.tamilultra.nl/SHAKTHI_TV/index.m3u8?token=a7929a5fd21cb02b82585164195555af64c87ad9-b3352c2b77f5bc0a254f7f84d273b660-1795599828-1795578228
-#EXTINF:-1 tvg-id="vasantham.tv" tvg-name="Vasantham TV" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/06/Vasantham_TV.png" group-title="Tamil Entertainment",Vasantham TV
-https://cdn.tamilultra.nl/VASANTHAM_TV/index.m3u8?token=6a464e7e53c9fc2f5eeb953e911e460fbc86b7b6-18273ee6b936051e91298dcfc28c55e0-1795599829-1795578229
-#EXTINF:-1 tvg-id="biggboss.tamil" tvg-name="Bigg Boss Tamil 24/7 Live" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2026/09/bbtamils10live.png" group-title="Tamil Entertainment",Bigg Boss Tamil 24/7 Live
-https://cdn.tamilultra.nl/BBTAMIL/index.m3u8?token=cf359e0a089b433d31ed898fb98773b644019e40-0c6907ae5052f807849e015032ce785e-1795599830-1795578230
-#EXTINF:-1 tvg-id="ktv.hd" tvg-name="KTV HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/KTV_HD.png" group-title="Tamil Movies",KTV HD
-https://cdn.tamilultra.nl/KTV_HD/index.m3u8?token=98ec94c689d293b535fb96fc5cb6d69b6dc63309-4fc52850916411b6d84cf7a7f319e34f-1795599841-1795578241
-#EXTINF:-1 tvg-id="vijay.super" tvg-name="Vijay Super" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Vijay_Super.png" group-title="Tamil Movies",Vijay Super
-https://cdn.tamilultra.nl/VIJAY_SUPER/index.m3u8?token=f1ee0269f53044d464173f18a0f01f0055507f5a-cef8902d8f1f97054ab826d8e8891dc8-1795599847-1795578247
-#EXTINF:-1 tvg-id="zee.thirai.hd" tvg-name="Zee Thirai HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Zee_Thirai.png" group-title="Tamil Movies",Zee Thirai HD
-https://cdn.tamilultra.nl/ZEE_THIRAI_HD/index.m3u8?token=4d8239e0442aea60b4762bde0433f5f3baa07a74-dd99a0cb2c39ef66008d4a84ce91b7b2-1795599851-1795578251
-#EXTINF:-1 tvg-id="maddytv.movies.hd" tvg-name="Maddy TV Movies 4K" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/07/TAMILULTRA_4K.png" group-title="Tamil Movies",Maddy TV Movies 4K
-https://cdn.tamilultra.nl/TAMILULTRA_MOVIES/index.m3u8?token=045a5dcb40018ff6715fc7ca374276675ae25bf7-11c435986d77a58205f8180c80bd4e33-1795599859-1795578259
-#EXTINF:-1 tvg-id="sun.music.hd" tvg-name="Sun Music HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Sun_Music_HD.png" group-title="Tamil Music",Sun Music HD
-https://cdn.tamilultra.nl/SUN_MUSIC_HD/index.m3u8?token=4c451493540e2064e17568be9475d9df0c4e2cf3-705293071e970198abe56ea1ad215640-1795599864-1795578264
-#EXTINF:-1 tvg-id="isaiaruvi" tvg-name="Isaiaruvi" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Isaiaruvi.png" group-title="Tamil Music",Isaiaruvi
+# ==============================================================================
+# MADDY TV DIRECT - BULLETPROOF ZERO-EXPIRY PLAYLIST
+# Direct CloudFront, Akamai, and ClearKey DRM Streams (No Website Tokens, No IP Locks)
+# Compatible natively with OwnTV, TiviMate, and Kodi
+# ==============================================================================
+
+# --- TAMIL ENTERTAINMENT & GENERAL ---
+#EXTINF:-1 tvg-id="SunTV.in@HD" tvg-name="Sun TV HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Sun_TV_HD.png" group-title="Tamil Entertainment",Sun TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+https://livestream2.sunnxt.com/803a6a4872a449a193b5846b5d101359/SunTVHD_P_IN_index.mpd
+
+#EXTINF:-1 tvg-id="ColorsTamil.in@HD" tvg-name="Colors Tamil HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Colors_Tamil_HD.png" group-title="Tamil Entertainment",Colors Tamil HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="AdithyaTV.in" tvg-name="Adithya TV" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Adithya_TV.png" group-title="Tamil Entertainment",Adithya TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d674a1a7f43641a29bd8867d87c7259a:812f55dcde68619fc6ad95951b241d2c
+https://livestream.sunnxt.com/b1865a87b7384835aee1a02038bce2ef/AdithyaTV_IN_index.mpd
+
+#EXTINF:-1 tvg-id="SunLife.in" tvg-name="Sun Life" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Sun_Life.png" group-title="Tamil Entertainment",Sun Life
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+https://livestream.sunnxt.com/c7d23c2ad1084c9794498e51158a2158/SunLife_IN_index.mpd
+
+#EXTINF:-1 tvg-id="AaryaaTV.in" tvg-name="Aaryaa TV" tvg-logo="https://i.imgur.com/VYorU1L.png" group-title="Tamil Entertainment",Aaryaa TV
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+
+# --- TAMIL MOVIES ---
+#EXTINF:-1 tvg-id="KTV.in@HD" tvg-name="KTV HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/KTV_HD.png" group-title="Tamil Movies",KTV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
+https://livestream.sunnxt.com/1c406d282d7446349fcc0f4a1b2180d7/KTVHD_P_IN_index.mpd
+
+# --- TAMIL MUSIC ---
+#EXTINF:-1 tvg-id="SunMusic.in@HD" tvg-name="Sun Music HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Sun_Music_HD.png" group-title="Tamil Music",Sun Music HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
+https://livestream.sunnxt.com/f6f92acd2b4f4870aabf04b274c69376/SunMusicHD_P_IN_index.mpd
+
+#EXTINF:-1 tvg-id="Isaiaruvi.in" tvg-name="Isaiaruvi" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Isaiaruvi.png" group-title="Tamil Music",Isaiaruvi
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/isaiaruvi_nim_https/140622/isaiaruvi/playlist.m3u8?e=1
-#EXTINF:-1 tvg-id="murasu.tv" tvg-name="Murasu TV" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2024/10/Murasu_Tv.png" group-title="Tamil Music",Murasu TV
+
+#EXTINF:-1 tvg-id="MurasuTV.in" tvg-name="Murasu TV" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2024/10/Murasu_Tv.png" group-title="Tamil Music",Murasu TV
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
-#EXTINF:-1 tvg-id="sony.ten4.tamil" tvg-name="Sony Ten 4 Tamil HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/04/Ten4_Tamil_HD_FINAL.png" group-title="Sports",Sony Ten 4 Tamil HD
-https://cdn.tamilultra.nl/TEN_4_HD/index.m3u8?token=98639126b98e8d0388ee6fa956e15a3f380d4f78-05ada90ab4ecc997e7833c0b7f07011e-1795599878-1795578278
-#EXTINF:-1 tvg-id="willow.hd" tvg-name="Willow Cricket HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/07/WILLOW_HD.png" group-title="Sports",Willow Cricket HD
-https://cdn.tamilultra.nl/WILLOW_HD/index.m3u8?token=28cc5de174d9076a5165fb650cd0d8b0dc62d830-97503a79dfd5fed848058428a9d17a1b-1795599881-1795578281
-#EXTINF:-1 tvg-id="sky.cricket" tvg-name="Sky Sports Cricket HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/07/SKY_SPORTS_CRICKET.png" group-title="Sports",Sky Sports Cricket HD
-https://cdn.tamilultra.nl/SKY_CRICKET/index.m3u8?token=deafa3a6f37c86af76f35365e5f0f68c584c3432-5b162dc9b045d01ad456112454668645-1795599884-1795578284
-#EXTINF:-1 tvg-id="astro.cricket" tvg-name="Astro Cricket HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/07/ASTRO_CRICKET.png" group-title="Sports",Astro Cricket HD
-https://cdn.tamilultra.nl/ASTRO_CRICKET/index.m3u8?token=cf4c5093201f56e1182fb7a8335e78276362a14f-df7263d335e3909d3e4582c3f790831d-1795599896-1795578296
+
+# --- TAMIL INFOTAINMENT ---
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-name="History TV18 HD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Tamil Infotainment",History TV18 HD
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+
+# --- SPORTS ---
 #EXTINF:-1 tvg-id="sky.f1.hd" tvg-name="Sky Sports F1 HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2026/04/SKY_SPORTS_F1.png" group-title="Sports",Sky Sports F1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
-#EXTINF:-1 tvg-id="history18.tamil" tvg-name="History TV18 HD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Tamil Infotainment",History TV18 HD
-https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+
+# --- KIDS ---
+#EXTINF:-1 tvg-id="ChuttiTV.in" tvg-name="Chutti TV" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Chutti_TV-1.png" group-title="Kids",Chutti TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b
+https://livestream.sunnxt.com/e3eccb3f250a4ca8826e42914b2322a6/ChuttiTV_IN_index.mpd
+
+#EXTINF:-1 tvg-id="WowKidz.in" tvg-name="Wow Kidz Tamil" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2026/04/Wow_kids_tamil.png" group-title="Kids",Wow Kidz Tamil
+https://yuppparoriglin.akamaized.net//181224//smil:wowkidztam.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b&id=25734&type=mp4
+
+# --- ADDITIONAL DISCOVERY & RELAY CHANNELS ---
+#EXTINF:-1 tvg-id="star.vijay.hd" tvg-name="Star Vijay HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Star_Vijay_HD.png" group-title="Tamil Entertainment",Star Vijay HD
+https://cdn.tamilultra.nl/STAR_VIJAY/index.m3u8?token=1f076085ff343a8067f67cf702eaf26a4c6a3c09-e18a7b2e383c1f941979655740bd85fc-1795599819-1795578219
+
+#EXTINF:-1 tvg-id="zee.tamil.hd" tvg-name="Zee Tamil HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Zee_Tamil_HD.png" group-title="Tamil Entertainment",Zee Tamil HD
+https://cdn.tamilultra.nl/ZEE_TAMIL_HD/index.m3u8?token=71984524913926ec3af0bb6f29d5266b8c9bab9e-3a660cdc80043b2519d147e7d8a37765-1795599820-1795578220
+
+#EXTINF:-1 tvg-id="vijay.takkar" tvg-name="Vijay Takkar" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Vijay_Takkar.png" group-title="Tamil Entertainment",Vijay Takkar
+https://cdn.tamilultra.nl/VIJAY_TAKKAR/index.m3u8?token=e4f427ad2b2f2768d269b5edee3a8f359ef63314-3c629b40ef10e1b87376f57db545eb92-1795599824-1795578224
+
+#EXTINF:-1 tvg-id="shakthi.tv" tvg-name="Shakthi TV" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2024/05/Sakthi_TV.png" group-title="Tamil Entertainment",Shakthi TV
+https://cdn.tamilultra.nl/SHAKTHI_TV/index.m3u8?token=a7929a5fd21cb02b82585164195555af64c87ad9-b3352c2b77f5bc0a254f7f84d273b660-1795599828-1795578228
+
+#EXTINF:-1 tvg-id="vasantham.tv" tvg-name="Vasantham TV" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/06/Vasantham_TV.png" group-title="Tamil Entertainment",Vasantham TV
+https://cdn.tamilultra.nl/VASANTHAM_TV/index.m3u8?token=6a464e7e53c9fc2f5eeb953e911e460fbc86b7b6-18273ee6b936051e91298dcfc28c55e0-1795599829-1795578229
+
+#EXTINF:-1 tvg-id="biggboss.tamil" tvg-name="Bigg Boss Tamil 24/7 Live" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2026/09/bbtamils10live.png" group-title="Tamil Entertainment",Bigg Boss Tamil 24/7 Live
+https://cdn.tamilultra.nl/BBTAMIL/index.m3u8?token=cf359e0a089b433d31ed898fb98773b644019e40-0c6907ae5052f807849e015032ce785e-1795599830-1795578230
+
+#EXTINF:-1 tvg-id="vijay.super" tvg-name="Vijay Super" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Vijay_Super.png" group-title="Tamil Movies",Vijay Super
+https://cdn.tamilultra.nl/VIJAY_SUPER/index.m3u8?token=f1ee0269f53044d464173f18a0f01f0055507f5a-cef8902d8f1f97054ab826d8e8891dc8-1795599847-1795578247
+
+#EXTINF:-1 tvg-id="zee.thirai.hd" tvg-name="Zee Thirai HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Zee_Thirai.png" group-title="Tamil Movies",Zee Thirai HD
+https://cdn.tamilultra.nl/ZEE_THIRAI_HD/index.m3u8?token=4d8239e0442aea60b4762bde0433f5f3baa07a74-dd99a0cb2c39ef66008d4a84ce91b7b2-1795599851-1795578251
+
+#EXTINF:-1 tvg-id="maddytv.movies.hd" tvg-name="Maddy TV Movies 4K" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/07/TAMILULTRA_4K.png" group-title="Tamil Movies",Maddy TV Movies 4K
+https://cdn.tamilultra.nl/TAMILULTRA_MOVIES/index.m3u8?token=045a5dcb40018ff6715fc7ca374276675ae25bf7-11c435986d77a58205f8180c80bd4e33-1795599859-1795578259
+
+#EXTINF:-1 tvg-id="sony.ten4.tamil" tvg-name="Sony Ten 4 Tamil HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/04/Ten4_Tamil_HD_FINAL.png" group-title="Sports",Sony Ten 4 Tamil HD
+https://cdn.tamilultra.nl/TEN_4_HD/index.m3u8?token=98639126b98e8d0388ee6fa956e15a3f380d4f78-05ada90ab4ecc997e7833c0b7f07011e-1795599878-1795578278
+
+#EXTINF:-1 tvg-id="willow.hd" tvg-name="Willow Cricket HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/07/WILLOW_HD.png" group-title="Sports",Willow Cricket HD
+https://cdn.tamilultra.nl/WILLOW_HD/index.m3u8?token=28cc5de174d9076a5165fb650cd0d8b0dc62d830-97503a79dfd5fed848058428a9d17a1b-1795599881-1795578281
+
+#EXTINF:-1 tvg-id="sky.cricket" tvg-name="Sky Sports Cricket HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/07/SKY_SPORTS_CRICKET.png" group-title="Sports",Sky Sports Cricket HD
+https://cdn.tamilultra.nl/SKY_CRICKET/index.m3u8?token=deafa3a6f37c86af76f35365e5f0f68c584c3432-5b162dc9b045d01ad456112454668645-1795599884-1795578284
+
+#EXTINF:-1 tvg-id="astro.cricket" tvg-name="Astro Cricket HD" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/07/ASTRO_CRICKET.png" group-title="Sports",Astro Cricket HD
+https://cdn.tamilultra.nl/ASTRO_CRICKET/index.m3u8?token=cf4c5093201f56e1182fb7a8335e78276362a14f-df7263d335e3909d3e4582c3f790831d-1795599896-1795578296
+
 #EXTINF:-1 tvg-id="natgeo.tamil" tvg-name="National Geographic Tamil" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/05/National_Geo_Tamil.png" group-title="Tamil Infotainment",National Geographic Tamil
 https://cdn.tamilultra.nl/NAT_GEO_TAMIL/index.m3u8?token=4c2129c2e5a9c1dfda56aa40cc402f222ba40cc2-bd22e0fe88cb4c3f1db7b308d8620a31-1795599898-1795578298
+
 #EXTINF:-1 tvg-id="natgeo.wild.tamil" tvg-name="Nat Geo Wild HD Tamil" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/04/Nat_Geo_Tamil.png" group-title="Tamil Infotainment",Nat Geo Wild HD Tamil
 https://cdn.tamilultra.nl/NAT_GEO_WILD_TAMIL/index.m3u8?token=3606e18445a271af424f857c5c40f80eabea204f-2fec6cf71cece5a204fd1aea79712b40-1795599900-1795578300
+
 #EXTINF:-1 tvg-id="sony.bbc.earth.tamil" tvg-name="Sony BBC Earth Tamil" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Sony_BBC_Earth_Tamil.png" group-title="Tamil Infotainment",Sony BBC Earth Tamil
 https://cdn.tamilultra.nl/SONY_BBC_TAMIL/index.m3u8?token=84d5e53b8abddf52dbaca0fe77ae7291f4bae2c0-f6f9f1a186db9cfb1357efcd55f8f5f0-1795599903-1795578303
+
 #EXTINF:-1 tvg-id="disney.tamil" tvg-name="Disney Channel Tamil" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/06/Disney_Tamil.png" group-title="Kids",Disney Channel Tamil
 https://cdn.tamilultra.nl/DISNEY_TAMIL/index.m3u8?token=f4637d33bd148324243ec71251c465277bed32ff-09980842566069e7a01e48bcf0d6eadd-1795599905-1795578305
-#EXTINF:-1 tvg-id="wow.kidz.tamil" tvg-name="Wow Kidz Tamil" tvg-logo="https://i0.wp.com/tamilultra.nl/wp-content/uploads/2026/04/Wow_kids_tamil.png" group-title="Kids",Wow Kidz Tamil
-https://yuppparoriglin.akamaized.net//181224//smil:wowkidztam.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b&id=25734&type=mp4
