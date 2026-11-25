@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://mitthu786.github.io/tvepg/epg.xml.gz"
+#EXTM3U url-tvg="https://avkb.short.gy/epg.xml" x-tvg-url="https://avkb.short.gy/epg.xml"
 # ==============================================================================
 # MADDY TV DIRECT - BULLETPROOF ZERO-EXPIRY PLAYLIST
 # Direct CloudFront, Akamai, and ClearKey DRM Streams (No Website Tokens, No IP Locks)
