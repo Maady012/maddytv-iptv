@@ -1,0 +1,38 @@
+name: Auto Update Maddy TV Playlist
+
+on:
+  schedule:
+    # Run every 3 hours to ensure CDN tokens remain 100% fresh
+    - cron: '0 */3 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Maddy TV Scraper
+        run: |
+          python scraper.py
+
+      - name: Commit and Push Updated Playlist
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add maddytv.m3u
+          if git diff --staged --quiet; then
+            echo "No changes in playlist. Skipping commit."
+          else
+            git commit -m "Auto-update Maddy TV playlist [skip ci]"
+            git push
+          fi

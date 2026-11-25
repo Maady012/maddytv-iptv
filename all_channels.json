@@ -1,0 +1,612 @@
+[
+  {
+    "slug": "animal-planet-hd",
+    "url": "https://tamilultra.nl/live/animal-planet-hd/",
+    "title": "ANIMAL PLANET HD &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1961",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=1219"
+    }
+  },
+  {
+    "slug": "astro-cricket-sports",
+    "url": "https://tamilultra.nl/live/astro-cricket-sports/",
+    "title": "ASTRO CRICKET &#8211; SPORTS &#8211; TAMILULTRA TV",
+    "post_id": "4778",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=ASTRO_CRICKET&server=1"
+    }
+  },
+  {
+    "slug": "bigboss-tamil-season-10-watch-live-24-7-free",
+    "url": "https://tamilultra.nl/live/bigboss-tamil-season-10-watch-live-24-7-free/",
+    "title": "BIGBOSS TAMIL SEASON 10 &#8211; WATCH LIVE 24/7 FREE &#8211; TAMILULTRA TV",
+    "post_id": "5074",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=BBTAMIL&server=1"
+    }
+  },
+  {
+    "slug": "cartoon-network-hd",
+    "url": "https://tamilultra.nl/live/cartoon-network-hd/",
+    "title": "CARTOON NETWORK HD+ &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1978",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=1081"
+    }
+  },
+  {
+    "slug": "cartoon-network-tamil",
+    "url": "https://tamilultra.nl/live/cartoon-network-tamil/",
+    "title": "CARTOON NETWORK &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1976",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=817"
+    }
+  },
+  {
+    "slug": "chutti-tv",
+    "url": "https://tamilultra.nl/live/chutti-tv/",
+    "title": "CHUTTI TV &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1983",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=557"
+    }
+  },
+  {
+    "slug": "colors-tamil-new",
+    "url": "https://tamilultra.nl/live/colors-tamil-new/",
+    "title": "COLORS TAMIL &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1930",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=COLORS_TAMIL_HD&server=1"
+    }
+  },
+  {
+    "slug": "dd-podhigai",
+    "url": "https://tamilultra.nl/live/dd-podhigai/",
+    "title": "DD PODHIGAI &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "2015",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=726"
+    }
+  },
+  {
+    "slug": "dd-sports",
+    "url": "https://tamilultra.nl/live/dd-sports/",
+    "title": "DD SPORTS &#8211; SPORTS &#8211; TAMILULTRA TV",
+    "post_id": "2021",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=204"
+    }
+  },
+  {
+    "slug": "discovery-kids-tamil",
+    "url": "https://tamilultra.nl/live/discovery-kids-tamil/",
+    "title": "DISCOVERY KIDS &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1974",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=550"
+    }
+  },
+  {
+    "slug": "discovery-tamil",
+    "url": "https://tamilultra.nl/live/discovery-tamil/",
+    "title": "DISCOVERY &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1965",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=569"
+    }
+  },
+  {
+    "slug": "disney-tamil",
+    "url": "https://tamilultra.nl/live/disney-tamil/",
+    "title": "DISNEY TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "4912",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=DISNEY_TAMIL&server=1"
+    }
+  },
+  {
+    "slug": "history-18-tamil",
+    "url": "https://tamilultra.nl/live/history-18-tamil/",
+    "title": "HISTORY 18 HD- TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1957",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=579"
+    }
+  },
+  {
+    "slug": "isaiaruvi",
+    "url": "https://tamilultra.nl/live/isaiaruvi/",
+    "title": "ISAIARUVI &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1937",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/isaiaruvi_nim_https/140622/isaiaruvi/playlist.m3u8?e=1"
+    }
+  },
+  {
+    "slug": "jaya-max",
+    "url": "https://tamilultra.nl/live/jaya-max/",
+    "title": "JAYA MAX &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1939",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=420"
+    }
+  },
+  {
+    "slug": "jaya-movies",
+    "url": "https://tamilultra.nl/live/jaya-movies/",
+    "title": "JAYA MOVIES &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1954",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=417"
+    }
+  },
+  {
+    "slug": "jaya-plus",
+    "url": "https://tamilultra.nl/live/jaya-plus/",
+    "title": "JAYA PLUS &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1999",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=418"
+    }
+  },
+  {
+    "slug": "kalaingar-seithigal",
+    "url": "https://tamilultra.nl/live/kalaingar-seithigal/",
+    "title": "KALAINGAR SEITHIGAL &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "2750",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=1210"
+    }
+  },
+  {
+    "slug": "kalaingar-tv",
+    "url": "https://tamilultra.nl/live/kalaingar-tv/",
+    "title": "KALAINGAR TV &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1935",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=1209"
+    }
+  },
+  {
+    "slug": "ktv-hd",
+    "url": "https://tamilultra.nl/live/ktv-hd/",
+    "title": "KTV HD &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1950",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=KTV_HD&server=1"
+    }
+  },
+  {
+    "slug": "m-nadu",
+    "url": "https://tamilultra.nl/live/m-nadu/",
+    "title": "M NADU &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "2746",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=2424"
+    }
+  },
+  {
+    "slug": "maalai-murasu",
+    "url": "https://tamilultra.nl/live/maalai-murasu/",
+    "title": "MAALAI MURASU &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1994",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=826"
+    }
+  },
+  {
+    "slug": "makkal-tv",
+    "url": "https://tamilultra.nl/live/makkal-tv/",
+    "title": "MAKKAL TV &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "2013",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=708"
+    }
+  },
+  {
+    "slug": "mk-music",
+    "url": "https://tamilultra.nl/live/mk-music/",
+    "title": "MK MUSIC &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1940",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=845"
+    }
+  },
+  {
+    "slug": "murasu-tv-tamil",
+    "url": "https://tamilultra.nl/live/murasu-tv-tamil/",
+    "title": "MURASU TV &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "4955",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?https://segment.yuppcdn.net/050522/murasu/playlist.m3u8"
+    }
+  },
+  {
+    "slug": "nat-geo-wild-hd-tamil",
+    "url": "https://tamilultra.nl/live/nat-geo-wild-hd-tamil/",
+    "title": "NAT GEO WILD HD &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "2756",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=NAT_GEO_WILD_TAMIL&server=1"
+    }
+  },
+  {
+    "slug": "national-geographic",
+    "url": "https://tamilultra.nl/live/national-geographic/",
+    "title": "NATIONAL GEOGRAPHIC &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "4463",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=NAT_GEO_TAMIL&server=1"
+    }
+  },
+  {
+    "slug": "news-18-tamil",
+    "url": "https://tamilultra.nl/live/news-18-tamil/",
+    "title": "NEWS 18 TAMILNADU &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "2009",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=615"
+    }
+  },
+  {
+    "slug": "news-j",
+    "url": "https://tamilultra.nl/live/news-j/",
+    "title": "NEWS J &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "2748",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=1515"
+    }
+  },
+  {
+    "slug": "nick-sonic",
+    "url": "https://tamilultra.nl/live/nick-sonic/",
+    "title": "NICK SONIC &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1972",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=290"
+    }
+  },
+  {
+    "slug": "nick-tamil",
+    "url": "https://tamilultra.nl/live/nick-tamil/",
+    "title": "NICK &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1970",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=546"
+    }
+  },
+  {
+    "slug": "pogo",
+    "url": "https://tamilultra.nl/live/pogo/",
+    "title": "POGO &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1985",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=542"
+    }
+  },
+  {
+    "slug": "puthiya-thalaimurai",
+    "url": "https://tamilultra.nl/live/puthiya-thalaimurai/",
+    "title": "PUTHIYA THALAIMURAI &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "2752",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=677"
+    }
+  },
+  {
+    "slug": "raj-digital-plus",
+    "url": "https://tamilultra.nl/live/raj-digital-plus/",
+    "title": "RAJ DIGITAL PLUS &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1956",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=683"
+    }
+  },
+  {
+    "slug": "raj-musix",
+    "url": "https://tamilultra.nl/live/raj-musix/",
+    "title": "RAJ MUSIX &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1938",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=748"
+    }
+  },
+  {
+    "slug": "raj-news",
+    "url": "https://tamilultra.nl/live/raj-news/",
+    "title": "RAJ NEWS &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "2008",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=767"
+    }
+  },
+  {
+    "slug": "raj-tv",
+    "url": "https://tamilultra.nl/live/raj-tv/",
+    "title": "RAJ TV &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1933",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=707"
+    }
+  },
+  {
+    "slug": "sathiyam-news",
+    "url": "https://tamilultra.nl/live/sathiyam-news/",
+    "title": "SATHIYAM NEWS &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1989",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=671"
+    }
+  },
+  {
+    "slug": "shakthi-tv-tamil",
+    "url": "https://tamilultra.nl/live/shakthi-tv-tamil/",
+    "title": "SHAKTHI TV &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "4879",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=SHAKTHI_TV&server=2"
+    }
+  },
+  {
+    "slug": "sky-sports-cricket-sports",
+    "url": "https://tamilultra.nl/live/sky-sports-cricket-sports/",
+    "title": "SKY SPORTS CRICKET &#8211; SPORTS &#8211; TAMILULTRA TV",
+    "post_id": "4779",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=SKY_CRICKET&server=1"
+    }
+  },
+  {
+    "slug": "sky-sports-f1-sports",
+    "url": "https://tamilultra.nl/live/sky-sports-f1-sports/",
+    "title": "SKY SPORTS F1 &#8211; SPORTS &#8211; TAMILULTRA TV",
+    "post_id": "5052",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/playerdrm.php?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd&keyid=609d795905904705028ef54653019af7&key=2c791eb611e57a7d7f203022bc1b9ba3"
+    }
+  },
+  {
+    "slug": "sony-bbc-earth",
+    "url": "https://tamilultra.nl/live/sony-bbc-earth/",
+    "title": "SONY BBC EARTH &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1959",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=SONY_BBC_TAMIL&server=1"
+    }
+  },
+  {
+    "slug": "sony-ten-4-tamil-hd",
+    "url": "https://tamilultra.nl/live/sony-ten-4-tamil-hd/",
+    "title": "SONY TEN 4 TAMIL HD &#8211; SPORTS &#8211; TAMILULTRA TV",
+    "post_id": "2682",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=TEN_4_HD&server=1"
+    }
+  },
+  {
+    "slug": "sony-yay",
+    "url": "https://tamilultra.nl/live/sony-yay/",
+    "title": "SONY YAY &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1967",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=873"
+    }
+  },
+  {
+    "slug": "sptamil",
+    "url": "https://tamilultra.nl/live/sptamil/",
+    "title": "STAR SPORTS 1 TAMIL &#8211; SPORTS &#8211; TAMILULTRA TV",
+    "post_id": "2082",
+    "embed_data": {
+      "type": "movie/1",
+      "embed": "/player.php?master.m3u8?c=SPTAMIL&server=1"
+    }
+  },
+  {
+    "slug": "star-sports-2-tamil-sports",
+    "url": "https://tamilultra.nl/live/star-sports-2-tamil-sports/",
+    "title": "STAR SPORTS 2 TAMIL \u2013 SPORTS &#8211; TAMILULTRA TV",
+    "post_id": "5080",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?/api/jiotv.m3u8?id=2853"
+    }
+  },
+  {
+    "slug": "star-vijay",
+    "url": "https://tamilultra.nl/live/star-vijay/",
+    "title": "STAR VIJAY &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1928",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=STAR_VIJAY&server=1"
+    }
+  },
+  {
+    "slug": "sun-life-new",
+    "url": "https://tamilultra.nl/live/sun-life-new/",
+    "title": "SUN LIFE &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1955",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=682"
+    }
+  },
+  {
+    "slug": "sun-music-hd-new",
+    "url": "https://tamilultra.nl/live/sun-music-hd-new/",
+    "title": "SUN MUSIC HD &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1936",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=SUN_MUSIC_HD&server=1"
+    }
+  },
+  {
+    "slug": "sun-tv-new",
+    "url": "https://tamilultra.nl/live/sun-tv-new/",
+    "title": "SUN TV HD &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1927",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=SUN_TV_HD&server=1"
+    }
+  },
+  {
+    "slug": "tamilultra-movies-hd",
+    "url": "https://tamilultra.nl/live/tamilultra-movies-hd/",
+    "title": "TAMILULTRA MOVIES HD &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "4423",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=TAMILULTRA_MOVIES&server=1"
+    }
+  },
+  {
+    "slug": "travel-xp",
+    "url": "https://tamilultra.nl/live/travel-xp/",
+    "title": "TRAVEL XP &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1963",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=814"
+    }
+  },
+  {
+    "slug": "tunes-6",
+    "url": "https://tamilultra.nl/live/tunes-6/",
+    "title": "TUNES 6 &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1941",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=803"
+    }
+  },
+  {
+    "slug": "vasantham-tv",
+    "url": "https://tamilultra.nl/live/vasantham-tv/",
+    "title": "VASANTHAM TV &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "3982",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=VASANTHAM_TV&server=2"
+    }
+  },
+  {
+    "slug": "vijay-super",
+    "url": "https://tamilultra.nl/live/vijay-super/",
+    "title": "VIJAY SUPER &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1951",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=VIJAY_SUPER&server=1"
+    }
+  },
+  {
+    "slug": "vijay-takkar",
+    "url": "https://tamilultra.nl/live/vijay-takkar/",
+    "title": "VIJAY TAKKAR &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1942",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=VIJAY_TAKKAR&server=3"
+    }
+  },
+  {
+    "slug": "willow-hd-sports",
+    "url": "https://tamilultra.nl/live/willow-hd-sports/",
+    "title": "WILLOW HD &#8211; SPORTS &#8211; TAMILULTRA TV",
+    "post_id": "4780",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=WILLOW_HD&server=1"
+    }
+  },
+  {
+    "slug": "win-tv",
+    "url": "https://tamilultra.nl/live/win-tv/",
+    "title": "WIN TV &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "2011",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?api/jiotv.m3u8?id=970"
+    }
+  },
+  {
+    "slug": "wow-kidz-tamil",
+    "url": "https://tamilultra.nl/live/wow-kidz-tamil/",
+    "title": "WOW KIDZ TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "5050",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?https://yuppparoriglin.akamaized.net//181224//smil:wowkidztam.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b&id=25734&type=mp4"
+    }
+  },
+  {
+    "slug": "zee-tamil-new",
+    "url": "https://tamilultra.nl/live/zee-tamil-new/",
+    "title": "ZEE TAMIL &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1929",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=ZEE_TAMIL_HD&server=1"
+    }
+  },
+  {
+    "slug": "zee-thirai-new",
+    "url": "https://tamilultra.nl/live/zee-thirai-new/",
+    "title": "ZEE THIRAI &#8211; TAMIL &#8211; TAMILULTRA TV",
+    "post_id": "1953",
+    "embed_data": {
+      "type": "tv/1",
+      "embed": "/player.php?master.m3u8?c=ZEE_THIRAI_HD&server=1"
+    }
+  }
+]

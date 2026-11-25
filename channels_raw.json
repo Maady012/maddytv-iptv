@@ -1,0 +1,408 @@
+[
+  {
+    "id": "5080",
+    "name": "STAR SPORTS 2 TAMIL \u2013 SPORTS",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2024/10/SPTAMIL-2.png",
+    "code": null,
+    "embed": "/player.php?/api/jiotv.m3u8?id=2853"
+  },
+  {
+    "id": "5052",
+    "name": "SKY SPORTS F1 \u2013 SPORTS",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2026/04/SKY_SPORTS_F1.png",
+    "code": null,
+    "embed": "/playerdrm.php?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd&keyid=609d795905904705028ef54653019af7&key=2c791eb611e57a7d7f203022bc1b9ba3"
+  },
+  {
+    "id": "4780",
+    "name": "WILLOW HD \u2013 SPORTS",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/07/WILLOW_HD.png",
+    "code": "WILLOW_HD",
+    "embed": "/player.php?master.m3u8?c=WILLOW_HD&server=1"
+  },
+  {
+    "id": "4779",
+    "name": "SKY SPORTS CRICKET \u2013 SPORTS",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/07/SKY_SPORTS_CRICKET.png",
+    "code": "SKY_CRICKET",
+    "embed": "/player.php?master.m3u8?c=SKY_CRICKET&server=1"
+  },
+  {
+    "id": "4778",
+    "name": "ASTRO CRICKET \u2013 SPORTS",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/07/ASTRO_CRICKET.png",
+    "code": "ASTRO_CRICKET",
+    "embed": "/player.php?master.m3u8?c=ASTRO_CRICKET&server=1"
+  },
+  {
+    "id": "2682",
+    "name": "SONY TEN 4 TAMIL HD \u2013 SPORTS",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/04/Ten4_Tamil_HD_FINAL.png",
+    "code": "TEN_4_HD",
+    "embed": "/player.php?master.m3u8?c=TEN_4_HD&server=1"
+  },
+  {
+    "id": "2082",
+    "name": "STAR SPORTS 1 TAMIL \u2013 SPORTS",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/07/Star_Sports_Tamil.png",
+    "code": "SPTAMIL",
+    "embed": "/player.php?master.m3u8?c=SPTAMIL&server=1"
+  },
+  {
+    "id": "2021",
+    "name": "DD SPORTS \u2013 SPORTS",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/DD_Sports.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=204"
+  },
+  {
+    "id": "4879",
+    "name": "SHAKTHI TV \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2024/05/Sakthi_TV.png",
+    "code": "SHAKTHI_TV",
+    "embed": "/player.php?master.m3u8?c=SHAKTHI_TV&server=2"
+  },
+  {
+    "id": "4955",
+    "name": "MURASU TV \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2024/10/Murasu_Tv.png",
+    "code": null,
+    "embed": "/player.php?https://segment.yuppcdn.net/050522/murasu/playlist.m3u8"
+  },
+  {
+    "id": "1935",
+    "name": "KALAINGAR TV \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Kalaingar_TV.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=1209"
+  },
+  {
+    "id": "2015",
+    "name": "DD PODHIGAI \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/DD_Podhigai.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=726"
+  },
+  {
+    "id": "5074",
+    "name": "BIGBOSS TAMIL SEASON 10 \u2013 WATCH LIVE 24/7 FREE",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2026/09/bbtamils10live.png",
+    "code": "BBTAMIL",
+    "embed": "/player.php?master.m3u8?c=BBTAMIL&server=1"
+  },
+  {
+    "id": "2013",
+    "name": "MAKKAL TV \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Makkal_TV.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=708"
+  },
+  {
+    "id": "1933",
+    "name": "RAJ TV \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Raj_TV.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=707"
+  },
+  {
+    "id": "3982",
+    "name": "VASANTHAM TV \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/06/Vasantham_TV.png",
+    "code": "VASANTHAM_TV",
+    "embed": "/player.php?master.m3u8?c=VASANTHAM_TV&server=2"
+  },
+  {
+    "id": "1930",
+    "name": "COLORS TAMIL \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Colors_Tamil_HD.png",
+    "code": "COLORS_TAMIL_HD",
+    "embed": "/player.php?master.m3u8?c=COLORS_TAMIL_HD&server=1"
+  },
+  {
+    "id": "1942",
+    "name": "VIJAY TAKKAR \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Vijay_Takkar.png",
+    "code": "VIJAY_TAKKAR",
+    "embed": "/player.php?master.m3u8?c=VIJAY_TAKKAR&server=3"
+  },
+  {
+    "id": "1938",
+    "name": "RAJ MUSIX \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Raj_Musix.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=748"
+  },
+  {
+    "id": "1936",
+    "name": "SUN MUSIC HD \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Sun_Music_HD.png",
+    "code": "SUN_MUSIC_HD",
+    "embed": "/player.php?master.m3u8?c=SUN_MUSIC_HD&server=1"
+  },
+  {
+    "id": "1937",
+    "name": "ISAIARUVI \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Isaiaruvi.png",
+    "code": null,
+    "embed": "/player.php?https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/isaiaruvi_nim_https/140622/isaiaruvi/playlist.m3u8?e=1"
+  },
+  {
+    "id": "1940",
+    "name": "MK MUSIC \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/MK_Music.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=845"
+  },
+  {
+    "id": "1941",
+    "name": "TUNES 6 \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Tunes_6.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=803"
+  },
+  {
+    "id": "1939",
+    "name": "JAYA MAX \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Jaya_Max.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=420"
+  },
+  {
+    "id": "4463",
+    "name": "NATIONAL GEOGRAPHIC \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/05/National_Geo_Tamil.png",
+    "code": "NAT_GEO_TAMIL",
+    "embed": "/player.php?master.m3u8?c=NAT_GEO_TAMIL&server=1"
+  },
+  {
+    "id": "1959",
+    "name": "SONY BBC EARTH \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Sony_BBC_Earth_Tamil.png",
+    "code": "SONY_BBC_TAMIL",
+    "embed": "/player.php?master.m3u8?c=SONY_BBC_TAMIL&server=1"
+  },
+  {
+    "id": "1961",
+    "name": "ANIMAL PLANET HD \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Animal_Planet_HD_World.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=1219"
+  },
+  {
+    "id": "1957",
+    "name": "HISTORY 18 HD- TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/History_TV_18_TAMIL.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=579"
+  },
+  {
+    "id": "2756",
+    "name": "NAT GEO WILD HD \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/04/Nat_Geo_Tamil.png",
+    "code": "NAT_GEO_WILD_TAMIL",
+    "embed": "/player.php?master.m3u8?c=NAT_GEO_WILD_TAMIL&server=1"
+  },
+  {
+    "id": "1963",
+    "name": "TRAVEL XP \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Travel-XP_Tamil.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=814"
+  },
+  {
+    "id": "1965",
+    "name": "DISCOVERY \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Discovery_Tamil-1.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=569"
+  },
+  {
+    "id": "1974",
+    "name": "DISCOVERY KIDS \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Discovery_Kids_Tamil.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=550"
+  },
+  {
+    "id": "1983",
+    "name": "CHUTTI TV \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Chutti_TV-1.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=557"
+  },
+  {
+    "id": "4912",
+    "name": "DISNEY TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/06/Disney_Tamil.png",
+    "code": "DISNEY_TAMIL",
+    "embed": "/player.php?master.m3u8?c=DISNEY_TAMIL&server=1"
+  },
+  {
+    "id": "1985",
+    "name": "POGO \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/11/POGO.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=542"
+  },
+  {
+    "id": "5050",
+    "name": "WOW KIDZ TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2026/04/Wow_kids_tamil.png",
+    "code": null,
+    "embed": "/player.php?https://yuppparoriglin.akamaized.net//181224//smil:wowkidztam.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b&id=25734&type=mp4"
+  },
+  {
+    "id": "1976",
+    "name": "CARTOON NETWORK \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Cartoon_Network_Tamil.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=817"
+  },
+  {
+    "id": "1972",
+    "name": "NICK SONIC \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/NICK_SONIC_TAMIL.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=290"
+  },
+  {
+    "id": "1970",
+    "name": "NICK \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Nick_Tamil.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=546"
+  },
+  {
+    "id": "1967",
+    "name": "SONY YAY \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Sony_Yay_Tamil.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=873"
+  },
+  {
+    "id": "1978",
+    "name": "CARTOON NETWORK HD+ \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/CN_HDplus_TAMIL.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=1081"
+  },
+  {
+    "id": "1954",
+    "name": "JAYA MOVIES \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Jaya_movies.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=417"
+  },
+  {
+    "id": "4423",
+    "name": "TAMILULTRA MOVIES HD \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/07/TAMILULTRA_4K.png",
+    "code": "TAMILULTRA_MOVIES",
+    "embed": "/player.php?master.m3u8?c=TAMILULTRA_MOVIES&server=1"
+  },
+  {
+    "id": "1955",
+    "name": "SUN LIFE \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Sun_Life.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=682"
+  },
+  {
+    "id": "1950",
+    "name": "KTV HD \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/KTV_HD.png",
+    "code": "KTV_HD",
+    "embed": "/player.php?master.m3u8?c=KTV_HD&server=1"
+  },
+  {
+    "id": "1953",
+    "name": "ZEE THIRAI \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Zee_Thirai.png",
+    "code": "ZEE_THIRAI_HD",
+    "embed": "/player.php?master.m3u8?c=ZEE_THIRAI_HD&server=1"
+  },
+  {
+    "id": "1956",
+    "name": "RAJ DIGITAL PLUS \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Raj_Digital_Plus.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=683"
+  },
+  {
+    "id": "1951",
+    "name": "VIJAY SUPER \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Vijay_Super.png",
+    "code": "VIJAY_SUPER",
+    "embed": "/player.php?master.m3u8?c=VIJAY_SUPER&server=1"
+  },
+  {
+    "id": "2750",
+    "name": "KALAINGAR SEITHIGAL \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/04/Kalaingar_Seithigal.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=1210"
+  },
+  {
+    "id": "1999",
+    "name": "JAYA PLUS \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Jaya_Plus.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=418"
+  },
+  {
+    "id": "2008",
+    "name": "RAJ NEWS \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Raj_News_Tamil.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=767"
+  },
+  {
+    "id": "2011",
+    "name": "WIN TV \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Win_TV.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=970"
+  },
+  {
+    "id": "1994",
+    "name": "MAALAI MURASU \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Maalai_murasu.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=826"
+  },
+  {
+    "id": "2746",
+    "name": "M NADU \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/04/M_Nadu.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=2424"
+  },
+  {
+    "id": "2009",
+    "name": "NEWS 18 TAMILNADU \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/News_18_Tamil.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=615"
+  },
+  {
+    "id": "2748",
+    "name": "NEWS J \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/04/News_J.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=1515"
+  },
+  {
+    "id": "1989",
+    "name": "SATHIYAM NEWS \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2021/05/Sathiyam_TV.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=671"
+  },
+  {
+    "id": "2752",
+    "name": "PUTHIYA THALAIMURAI \u2013 TAMIL",
+    "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/04/Puthiyathalaimurai.png",
+    "code": null,
+    "embed": "/player.php?api/jiotv.m3u8?id=677"
+  }
+]
