@@ -212,6 +212,14 @@ CHANNELS = [
 
     # --- INFOTAINMENT & KIDS ---
     {
+        "id": "history18.tamil",
+        "name": "History TV18 HD",
+        "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
+        "group": "Tamil Infotainment",
+        "type": "direct_hls",
+        "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8"
+    },
+    {
         "id": "natgeo.tamil",
         "name": "National Geographic Tamil",
         "logo": "https://i0.wp.com/tamilultra.nl/wp-content/uploads/2023/05/National_Geo_Tamil.png",
