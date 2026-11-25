@@ -1,0 +1,50 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Maady012/maddytv-iptv/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="tataplay_1130" tvg-name="Tata Play Bollywood Masala" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BMSLA_Thumbnail-v2/BMSLA_Thumbnail.png" group-title="Tata Play Drama" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Tata Play Bollywood Masala
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001285|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1924/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_1073" tvg-name="Tata Play Telugu Classics" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPTECL_Thumbnail-v1/TPTECL_Thumbnail.png" group-title="Tata Play Drama" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Tata Play Telugu Classics
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001237|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_1887/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_1170" tvg-name="Sidharth GOLD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SIDGL_Thumbnail-v2/SIDGL_Thumbnail.png" group-title="Tata Play Drama" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Sidharth GOLD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001315|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1952/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_1082" tvg-name="Tata Play Asomiya Monoronjan" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ASMON_Thumbnail-v1/ASMON_Thumbnail.png" group-title="Tata Play Drama" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Tata Play Asomiya Monoronjan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001250|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_1896/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_1196" tvg-name="Ekamra Bharat Odia" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMBHO_Thumbnail-v1/EKMBHO_Thumbnail.png" group-title="Tata Play Drama" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Ekamra Bharat Odia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://cable31tataplay.akamaized.net/bharat/bharat/index.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_1197" tvg-name="Ekamra Nilachakra" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMNIL_Thumbnail-v1/EKMNIL_Thumbnail.png" group-title="Tata Play Drama" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Ekamra Nilachakra
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://cable33tataplay.akamaized.net/nilachakra/nilachakra/index.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_1198" tvg-name="Ekamra Cynema" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMCYN_Thumbnail-v1/EKMCYN_Thumbnail.png" group-title="Tata Play Drama" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Ekamra Cynema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://cable35tataplay.akamaized.net/cynema/cynema/index.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_1206" tvg-name="Ekamra Baiscope" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMBCS_Thumbnail-v1/EKMBCS_Thumbnail.png" group-title="Tata Play Drama" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Ekamra Baiscope
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://cable51tataplay.akamaized.net/baiscope/baiscope/index.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_1384" tvg-name="SURIYAN TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SURIYANTV_Thumbnail-v1/SURIYANTV_Thumbnail.png" group-title="Tata Play Drama" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",SURIYAN TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://cable86tataplay.akamaized.net/live/suriyantv/index.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"

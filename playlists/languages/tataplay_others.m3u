@@ -1,0 +1,67 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Maady012/maddytv-iptv/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="tataplay_567" tvg-name="Nepal 1" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12106-j9ooxpug-v2/imageContent-12106-j9ooxpug-m2.png" group-title="Tata Play - Others" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Nepal 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000597|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_657/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_101" tvg-name="Rang" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-333-j5jl5q6o-v1/imageContent-333-j5jl5q6o-m1.png" group-title="Tata Play - Others" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Rang
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000105|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_214/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_214" tvg-name="Rengoni TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-860-j5mao56o-v1/imageContent-860-j5mao56o-m1.png" group-title="Tata Play - Others" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Rengoni TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000228|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_332/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_353" tvg-name="DY 365" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11411-j9jqocds-v1/imageContent-11411-j9jqocds-m1.png" group-title="Tata Play - Others" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",DY 365
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000367|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_534/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_68" tvg-name="News18 Assam North East" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12390-jai3fgy0-v1/imageContent-12390-jai3fgy0-m1.png" group-title="Tata Play - Others" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",News18 Assam North East
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000067|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_375/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_226" tvg-name="NEWS LIVE" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-956-j5mipkxs-v1/imageContent-956-j5mipkxs-m1.png" group-title="Tata Play - Others" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",NEWS LIVE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000239|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_334/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_221" tvg-name="Protidin Time" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-879-j5mdmlqw-v1/imageContent-879-j5mdmlqw-m1.png" group-title="Tata Play - Others" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Protidin Time
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000234|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_335/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_423" tvg-name="Prag News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11673-j9kfe73s-v1/imageContent-11673-j9kfe73s-m1.png" group-title="Tata Play - Others" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Prag News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000447|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_675/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_417" tvg-name="North East Live" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11644-j9k1gjow-v1/imageContent-11644-j9k1gjow-m1.png" group-title="Tata Play - Others" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",North East Live
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000440|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_664/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_331" tvg-name="DD North East" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11363-j9jprc40-v1/imageContent-11363-j9jprc40-m1.png" group-title="Tata Play - Others" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",DD North East
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000349|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_516/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_449" tvg-name="Ramdhenu" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11728-j9kw1zp4-v1/imageContent-11728-j9kw1zp4-m1.png" group-title="Tata Play - Others" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Ramdhenu
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000466|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_692/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"

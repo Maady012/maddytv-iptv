@@ -1,0 +1,107 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Maady012/maddytv-iptv/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="tataplay_121" tvg-name="Tata Play Fitness" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-405-j5jr3sz4-v2/imageContent-405-j5jr3sz4-m2.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Tata Play Fitness
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000129|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_209/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_618" tvg-name="Tata Play Beauty" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12282-ja02jlp4-v2/imageContent-12282-ja02jlp4-m2.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Tata Play Beauty
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000642|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_641" tvg-name="Tata Play Cooking" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23495-jf92iycg-v3/imageContent-23495-jf92iycg-m4.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Tata Play Cooking
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000676|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_1269" tvg-name="Chumbak TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHUMBKTV_Thumbnail-v2/CHUMBKTV_Thumbnail.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Chumbak TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001416|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_2052/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_1010" tvg-name="Bharat 24" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BH24_Thumbnail-v3/BH24_Thumbnail.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Bharat 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001171|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_1836/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_923" tvg-name="TravelXP 4K HDR" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63764-kr1kzw28-v2/imageContent-63764-kr1kzw28-m2.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",TravelXP 4K HDR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_367" tvg-name="Star Life HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/FOXHD_Thumbnail-v2/FOXHD_Thumbnail.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Star Life HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000371|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_544/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_480" tvg-name="TLC HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",TLC HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000508|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_780/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_135" tvg-name="TLC" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-453-j5jtup5s-v2/imageContent-453-j5jtup5s-m2.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",TLC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000145|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_127/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_136" tvg-name="GOOD TiMES" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42020-jxb7qjw8-v1/imageContent-42020-jxb7qjw8-m1.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",GOOD TiMES
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000147|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_111/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_228" tvg-name="Discovery Turbo" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Discovery Turbo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000242|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_145/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_484" tvg-name="Travelxp HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11862-j9l2p61c-v1/imageContent-11862-j9l2p61c-m1.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Travelxp HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000511|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_788/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_55" tvg-name="Travelxp" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-157-j5frd4e8-v1/imageContent-157-j5frd4e8-m1.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Travelxp
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000050|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_366/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_117" tvg-name="Food Food" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-384-j5jpj9hc-v1/imageContent-384-j5jpj9hc-m1.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Food Food
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000122|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_154/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_227" tvg-name="Fashion TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-959-j5mipsnk-v1/imageContent-959-j5mipsnk-m1.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",Fashion TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000240|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_404/output/Manifest.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_1290" tvg-name="TVRI World" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TVRIW_Thumbnail-v2/TVRIW_Thumbnail.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",TVRI World
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001429|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://delta45tatasky.akamaized.net/out/i/1537.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_1371" tvg-name="BVG" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BVG_Thumbnail-v1/BVG_Thumbnail.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",BVG
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001496|Origin=https%3A%2F%2Fwatch.tataplay.com&Referer=https%3A%2F%2Fwatch.tataplay.com%2F
+https://delta45webtatasky.akamaized.net/out/i/1673.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-id="tataplay_1242" tvg-name="In24 News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/IN24NEWS_Thumbnail-v1/IN24NEWS_Thumbnail.png" group-title="Tata Play Lifestyle" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}",In24 News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://cable62tataplay.akamaized.net/in24news/in24news/index.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
